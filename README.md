@@ -50,10 +50,19 @@ Tenemos que copiar el primer link para usar bootstrap
    ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/252c7aaa-2f9f-4858-9a8d-a31be03c4619)
 
 
-
-
 ## Vínculo JSP-JSP JSP-SERVLET
 
 Jsp - Jsp si es que no hay que mostrar algo de base de datos.
 
 Si el Jsp necesita base de datos va por SERVLET.
+
+## Funcionamiento Servlet con diferentes botones (En el mismo Servlet)
+
+Sabemos que la vista por Default te presenta un listado, péro si queremos colocar un boton que te redirija a ese mismo servlet tenemos que hacerlo con un parámetro "?action=X".
+
+Significa que se ha realizado una acción determinada en la vista. Este parámetro será enviado DESDE EL JSP AL SERVLET.
+     
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/1e2f9494-24c1-4e4b-a525-616ee6a31375)
+
+
+
