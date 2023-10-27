@@ -67,13 +67,19 @@ Significa que se ha realizado una acción determinada en la vista. Este parámet
 RECORDAR: request.setAttribute y request.getAttribute es para (SERVLET --> VISTA) unidireccional
 
 ## USO DEL REQUEST.GET PARAMETER (Servlet reciba de la Vista)
-Antes el Listado lo hacíamos por Default, ahora enviaremos un action de listar y para crear un actividad enviamos action que sea igual a new cuando presione dicho botón. TODO DESDE EL JSP HASTA EL SERVLET.
+Antes el Listado lo hacíamos por Default, ahora enviaremos un action "crear" una actividad cuando presione dicho botón. TODO DESDE EL JSP HASTA EL SERVLET.
 
 El request.getRequestDispatcher REDIRECCIONA A UN JSP (VISTA)
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/b68d77a4-280f-4028-9ee5-f7355119e7c5)
 
+Si ingreso defrente al servlet defrente:
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/d820ae58-8a20-4c29-b1a3-d9b50e96ba61)
+
+Nos damos cuenta que el action es null, por eso creamos esta lógica para el estado principal de la vista, si queremos hacer acciones (entrar a diferentes href mediante botones), solo con la variable action enviamos al sevrlet y con el switch-case (imag de arriba) e implementeamos para la recepción del action en el servlet:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/a936c418-1e5e-4d37-aec0-54805a35f99f)
 
 
 
