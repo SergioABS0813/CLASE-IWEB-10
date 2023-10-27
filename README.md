@@ -64,5 +64,13 @@ Significa que se ha realizado una acción determinada en la vista. Este parámet
      
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/1e2f9494-24c1-4e4b-a525-616ee6a31375)
 
+RECORDAR: request.setAttribute y request.getAttribute es para (SERVLET --> VISTA) unidireccional
+
+## USO DEL REQUEST.GET PARAMETER (Servlet reciba de la Vista)
+Antes el Listado lo hacíamos por Default, ahora enviaremos un action de listar y para crear un actividad enviamos action que sea igual a new cuando presione dicho botón. TODO DESDE EL JSP HASTA EL SERVLET.
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/53cb0857-0fce-4903-a81c-70480155382b)
+
+
 
 
