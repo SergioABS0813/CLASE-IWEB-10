@@ -79,7 +79,8 @@ Si ingreso defrente al servlet defrente:
 
 Nos damos cuenta que el action es null, por eso creamos esta lógica para el estado principal de la vista, si queremos hacer acciones (entrar a diferentes href mediante botones), solo con la variable action enviamos al sevrlet y con el switch-case (imag de arriba) e implementeamos para la recepción del action en el servlet:
 
-![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/a936c418-1e5e-4d37-aec0-54805a35f99f)
+Definición: Si es null --> action = "lista". Si no es null --> action = request.getParameter...
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/11a4dd24-b729-43cb-8875-9d5c4aaacca6)
 
 
