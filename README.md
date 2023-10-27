@@ -69,7 +69,10 @@ RECORDAR: request.setAttribute y request.getAttribute es para (SERVLET --> VISTA
 ## USO DEL REQUEST.GET PARAMETER (Servlet reciba de la Vista)
 Antes el Listado lo hacíamos por Default, ahora enviaremos un action de listar y para crear un actividad enviamos action que sea igual a new cuando presione dicho botón. TODO DESDE EL JSP HASTA EL SERVLET.
 
-![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/53cb0857-0fce-4903-a81c-70480155382b)
+El request.getRequestDispatcher REDIRECCIONA A UN JSP (VISTA)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/b68d77a4-280f-4028-9ee5-f7355119e7c5)
+
 
 
 
