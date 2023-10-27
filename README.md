@@ -116,15 +116,23 @@ Voy a mandar INPUTS pero para diferenciarlos necesitamos que tengan "name".
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/8a010ead-67d8-4dab-ab57-d5b36c7c03c9)
 
-
-
 ## Verificación Método Post en JobServlet
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/f61e1aa0-6fcc-4fc5-a2bf-e5c47b3d9f9f)
 
+## Recepción de datos enviados (POST en Servlet)
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/b4996d2e-26cb-49a0-bd49-734e034bdaaa)
 
+## Redireccionar a la página con los respectivos cambios
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/c8c621f6-ef0d-4d0c-ae3e-00270a62b5cc)
+
+## PARA PRACTICAR (Query que se encarga de insertar datos) - Servlet
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/fdbd6e64-4e38-4ad1-bb5a-eb2c6e8279ea)
+
+## 1:24
 
 
 
