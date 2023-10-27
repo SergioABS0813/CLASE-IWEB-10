@@ -91,3 +91,47 @@ Agregamos el request.getContextPath para que contenga el [proyecto] en el url, s
 Vemos el url del botón href y tiene la parte [proyecto]:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/4635d27b-d484-44c4-9d2e-19902141774f)
+
+## Envío de INPUTS con POST (FormularioS)
+En formularios se usa el método POST de HTTPS, lo que se manda en formularios, se manda CIFRADO.
+
+INPUTS que se enviarán al servidor
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/6cb61a72-663d-4894-be8b-ad89b32bba01)
+
+Emplearemos < form > < /form > para todos los inputs y obligatoriamente un botón de type = "submit". No nos preocupemos del botón regresar ya que como no es de tipo submit, es como si no estuviera.
+
+Para enviar los inputs al servidor, necesitamos:
+
+     -Método HTTP (get/post)
+     -A dónde va
+     -¿qué voy a mandar?
+     -botón (submit) de envío 
+
+Para este caso, el método es POST por ser formulario.
+
+Van hacia el JobServlet (controlador de los jobs) y enviamos mediante "action".
+
+Voy a mandar INPUTS pero para diferenciarlos necesitamos que tengan "name".
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/8a010ead-67d8-4dab-ab57-d5b36c7c03c9)
+
+
+
+## Verificación Método Post en JobServlet
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/f61e1aa0-6fcc-4fc5-a2bf-e5c47b3d9f9f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
