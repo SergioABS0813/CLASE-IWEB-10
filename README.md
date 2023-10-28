@@ -86,7 +86,7 @@ Definición: Si es null --> action = "lista". Si no es null --> action = request
 ## Linkear Botones GET
 Agregamos el request.getContextPath para que contenga el [proyecto] en el url, si no, nunca llegaría a la vista:
 
-     ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/1f1f9191-1196-4acc-918c-c2d1dadec4e3)
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/1f1f9191-1196-4acc-918c-c2d1dadec4e3)
 
 Vemos el url del botón href y tiene la parte [proyecto]:
 
