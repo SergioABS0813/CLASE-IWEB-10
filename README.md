@@ -92,7 +92,7 @@ Vemos el url del botón href y tiene la parte [proyecto]:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/4635d27b-d484-44c4-9d2e-19902141774f)
 
-## Envío de INPUTS con POST (FormularioS)
+## Envío de INPUTS con POST (Formularios)
 En formularios se usa el método POST de HTTPS, lo que se manda en formularios, se manda CIFRADO.
 
 INPUTS que se enviarán al servidor
