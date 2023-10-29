@@ -172,7 +172,10 @@ En el metodo Post le pondremos el action para distinguir. (OTRA FORMA DE ENVIO P
 
 Metodo de JobDao para actualizar:
 
-![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/41e81655-179d-4dce-9f23-93288032b1db)
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/30deb17d-aac8-4395-9d39-d417e93fa381)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/38db6050-2749-4a1f-a424-1c765dcf2991)
+
 
 Resultado* : EL ID NO DEBERIA SER ACTUALIZABLE
 
