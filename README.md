@@ -136,12 +136,19 @@ Voy a mandar INPUTS pero para diferenciarlos necesitamos que tengan "name".
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/3874c1ba-ce39-42b1-94ce-5767105d5b2d)
 
-El id es el mensaje que dejamos en el setAttribute en el Servlet respectivo.
+Primero hacemos el Dao en donde corresponda:
 
-El type es el tipo de dato de la variable que estamos mandando en el setAtribute
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/3320207c-3f22-46fe-8739-56089f2572aa)
 
-scope es por DÓNDE lo enviamos, siempre por request.
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/8786a8dd-f8d0-4b47-b5f6-a2d621361d6a)
 
+Luego de Crear la función del Dao, nos vamos al Servlet (ESTABLECEMOS COMUNICACIÓN MEDIANTE EL BEAN JOB) y desde el servlet enviamos el job que vamos a editar:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/a16c62cb-6c6f-463b-946b-fd0b88e9169c)
+
+Finalmente, en el jsp se colocan los parámetros de forms con value para que aparezcan con valores por defecto: con VALUES
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/3a43cebc-7ebd-4798-83d9-6188dd2208d9)
 
 
 
