@@ -132,7 +132,9 @@ Voy a mandar INPUTS pero para diferenciarlos necesitamos que tengan "name".
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/fdbd6e64-4e38-4ad1-bb5a-eb2c6e8279ea)
 
-## 1:24
+## PARA PRACTICAR: HACER EL BOTÓN DE EDITAR UN TRABAJO
+
+
 
 
 
