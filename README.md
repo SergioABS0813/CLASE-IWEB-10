@@ -154,7 +154,35 @@ RESULTADO al dar clic en Editar:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/30723447-623a-4c85-8631-07eba12e1cbd)
 
+Ahora realizamos la actualización de datos:
 
+Observamos que el doPost solo hace esa lógica para cualquier parámetro que le llegue
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/fa6e74e7-66cc-4610-aa75-bbd1ffc4e3c9)
+
+por eso haremos como el doGet que haremos más casos con switch o if recibiendo un parametro action para distinguir lo que queremos hacer (como en el doGet)
+
+En jobServlet:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/232e7209-8153-4faf-ad19-98692965f5f0)
+
+En el metodo Post le pondremos el action para distinguir. (OTRA FORMA DE ENVIO PARA EL DAO MEDIANTE EL BEAN)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/03a11f70-b9b5-4066-9b99-6fb36937f5c0)
+
+Metodo de JobDao para actualizar:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/41e81655-179d-4dce-9f23-93288032b1db)
+
+Resultado* : EL ID NO DEBERIA SER ACTUALIZABLE
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/9f274088-5850-4d64-87ad-15562ecf23b8)
+
+Lo ocultamos con hidden, no podemos borrarlo simplemente:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/6fcabdff-5f82-4ab7-ad77-7838d0197ea3)
+
+Resultado final:
 
 
 
