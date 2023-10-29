@@ -189,7 +189,10 @@ Resultado final:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/4b7e226f-5856-4639-bac3-afcafb21e20d)
 
+## Validación de datos
+Usaremos variables bandera para validar los caracteres
 
+1: 53
 
 
 
