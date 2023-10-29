@@ -187,6 +187,7 @@ Lo ocultamos con hidden, no podemos borrarlo simplemente:
 
 Resultado final:
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/4b7e226f-5856-4639-bac3-afcafb21e20d)
 
 
 
