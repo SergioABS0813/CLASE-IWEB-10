@@ -150,6 +150,9 @@ Finalmente, en el jsp se colocan los parámetros de forms con value para que apa
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/3a43cebc-7ebd-4798-83d9-6188dd2208d9)
 
+RESULTADO al dar clic en Editar:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/30723447-623a-4c85-8631-07eba12e1cbd)
 
 
 
