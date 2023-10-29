@@ -134,7 +134,13 @@ Voy a mandar INPUTS pero para diferenciarlos necesitamos que tengan "name".
 
 ## PARA PRACTICAR: HACER EL BOTÓN DE EDITAR UN TRABAJO
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/3874c1ba-ce39-42b1-94ce-5767105d5b2d)
 
+El id es el mensaje que dejamos en el setAttribute en el Servlet respectivo.
+
+El type es el tipo de dato de la variable que estamos mandando en el setAtribute
+
+scope es por DÓNDE lo enviamos, siempre por request.
 
 
 
