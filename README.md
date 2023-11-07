@@ -196,7 +196,9 @@ Por ejm: VARCHAR (30): acepta hasta 30 caracteres, si usamos más, nos arrojará
 
 Asimismo, si vamos a realizar más validaciones, mejor empleamos una variable "isAllValid" = true como bandera:
 
-Aquí validamos algunas cosas:
+VALIDAMOS PARA EDITAR Y CREAR (que no se use el mismo ID):
+
+Validamos los parámetros Varchar
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/fe2a542d-6e29-4b10-9833-33625158102a)
 
@@ -211,5 +213,22 @@ Para Editar: (misma estructura de IF-ELSE con la variable "isAllValid")
 Ahora validaremos que solo se puedan escoger las ID que no esten siendo empleadas:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/0485c272-32cd-472d-ba0f-bab46f7dc842)
+
+BORRAR:
+
+Primero vamos al jsp para mandar el action "delete" y el jobid del job que queremos borrar:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/bb5e5b03-1f6f-49ed-9977-3af8c981035e)
+
+Creamos el Dao de borrar Job:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/117f5e6b-ea37-46d3-a356-24768c8bad85)
+
+Luego en el JobServlet:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/fbf1761d-7a07-42e8-9397-48b5fdb613b0)
+
+
+JAVASCRIPT PARA CONFIRMACIÓN DE BOTÓN:
 
 
