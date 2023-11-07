@@ -231,4 +231,11 @@ Luego en el JobServlet:
 
 JAVASCRIPT PARA CONFIRMACIÓN DE BOTÓN:
 
+En el jsp añadimos js:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/d09b7525-6485-4fa3-bd6e-58738c2b2f04)
+
+Resultado:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/13c899a5-7a7a-4d59-b432-81c19c53d98b)
 
