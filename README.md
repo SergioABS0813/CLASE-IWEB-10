@@ -196,7 +196,17 @@ Por ejm: VARCHAR (30): acepta hasta 30 caracteres, si usamos más, nos arrojará
 
 Asimismo, si vamos a realizar más validaciones, mejor empleamos una variable "isAllValid" = true como bandera:
 
+Aquí validamos algunas cosas:
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/fe2a542d-6e29-4b10-9833-33625158102a)
+
+Para Crear:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/97474f19-2baa-455d-9a5a-abddd6624854)
+
+Para Editar: (misma estructura de IF-ELSE con la variable "isAllValid")
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/2b5f9508-d245-454d-b7eb-d9ae5a1c525c)
 
 
 
