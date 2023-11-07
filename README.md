@@ -190,9 +190,13 @@ Resultado final:
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/4b7e226f-5856-4639-bac3-afcafb21e20d)
 
 ## Validación de datos
-Usaremos variables bandera para validar los caracteres
+Usaremos variables bandera para validar los caracteres, en caso hayan variables de un determinado número de caracteres.
 
-1: 53
+Por ejm: VARCHAR (30): acepta hasta 30 caracteres, si usamos más, nos arrojará un error.
+
+Asimismo, si vamos a realizar más validaciones, mejor empleamos una variable "isAllValid" = true como bandera:
+
+
 
 
 
