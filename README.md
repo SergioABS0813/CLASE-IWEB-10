@@ -208,5 +208,8 @@ Para Editar: (misma estructura de IF-ELSE con la variable "isAllValid")
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/2b5f9508-d245-454d-b7eb-d9ae5a1c525c)
 
+Ahora validaremos que solo se puedan escoger las ID que no esten siendo empleadas:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/0485c272-32cd-472d-ba0f-bab46f7dc842)
 
 
