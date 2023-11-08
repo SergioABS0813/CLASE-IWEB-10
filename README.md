@@ -239,7 +239,7 @@ Resultado:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/13c899a5-7a7a-4d59-b432-81c19c53d98b)
 
-BORRAR 2: Cuando borramos empleos en los que hay empleados que tienen dicho empleo que borramos, ocurrirá este error:
+BORRAR 2: Cuando borramos empleos en los que hay empleados que tienen dicho empleo que borramos, ocurrirá este error por el SQL Exception:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/5a847b88-6267-4e0b-a783-a6656e3f8946)
 
@@ -251,6 +251,8 @@ Borramos el catch del propio método del Dao y lo capturamos cuando queramos usa
 
 Capturamos el Exception cuando usamos el método, no en el método:
 
-![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/f9706104-9089-4b61-b0a8-8593cc0dc12c)
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/30c1f202-42a3-4dc5-8efb-0f5f485649b0)
+
+## 2:33
 
 
