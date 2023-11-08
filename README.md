@@ -239,4 +239,14 @@ Resultado:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/13c899a5-7a7a-4d59-b432-81c19c53d98b)
 
-## 2:09
+BORRAR 2: Cuando borramos empleos en los que hay empleados que tienen dicho empleo que borramos, ocurrirá este error:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/5a847b88-6267-4e0b-a783-a6656e3f8946)
+
+Solo queremos borrar los empleos creados en los cuales ningún empleado esté
+
+Borramos el catch y lo capturamos en otro lado:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/c28fea9b-11ca-4fcb-937e-c7e8eb69111d)
+
+
