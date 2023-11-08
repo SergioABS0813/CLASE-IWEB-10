@@ -245,8 +245,12 @@ BORRAR 2: Cuando borramos empleos en los que hay empleados que tienen dicho empl
 
 Solo queremos borrar los empleos creados en los cuales ningún empleado esté
 
-Borramos el catch y lo capturamos en otro lado:
+Borramos el catch del propio método del Dao y lo capturamos cuando queramos usar el método, NO EN EL MÉTODO.
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/c28fea9b-11ca-4fcb-937e-c7e8eb69111d)
+
+Capturamos el Exception cuando usamos el método, no en el método:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-10/assets/134556600/f9706104-9089-4b61-b0a8-8593cc0dc12c)
 
 
